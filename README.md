@@ -10,7 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="[https://static.thenounproject.com/png/2456298-200.png](https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.svg)">
+  <img align="center" alt="Python" height="30" width="40" src="[[https://static.thenounproject.com/png/2456298-200.png](https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.svg)](https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1)">
 </div>
  
 <br>
